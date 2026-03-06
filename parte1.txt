@@ -1,4 +1,0 @@
-Adrián era un joven programador que había creado el videojuego más ambicioso de su vida: un mundo infinito lleno de magia al estilo RPG, 
-criaturas gigantes y ciudades flotantes. Orgulloso de su obra, decidió agregar un código secreto que otorgaba poder absoluto al personaje principal, 
-solo por curiosidad, sin imaginar que esa decisión cambiaría su destino.
-*revisado por el instructor Yonatan*
